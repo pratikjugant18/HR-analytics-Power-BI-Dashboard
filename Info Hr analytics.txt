@@ -1,0 +1,9 @@
+HR ANALYTICS DASHBOARD 
+
+Objective of Creating this Dashboard : 
+Help an Organization to improve employee performance and improve employee retention (reduce attrition) by creating a HR analytics dashboard.
+
+STEPS PERFORMED IN THIS DASHBOARD 
+1)Getting raw data from a CSV file .
+2)Performing DAX operations (new measure ,data cleaning ,new coloumn ).
+3)Creating an interactive dashboard with different data visualization charts to help organizations know the insights of Company.
